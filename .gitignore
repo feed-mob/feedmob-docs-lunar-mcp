@@ -5,4 +5,7 @@ dist/
 scraped/
 __MACOSX/
 *.zip
-
+.npm-cache/
+.userprofile/
+mcp_output.log
+run_mcp.ps1
